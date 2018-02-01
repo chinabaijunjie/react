@@ -1,0 +1,38 @@
+.home {
+  width: 100%;
+  min-height: 600px; }
+  .home .list {
+    width: 100%;
+    min-height: 500px; }
+  .home .blogroll {
+    width: 100%;
+    height: 100px;
+    margin-top: 6px;
+    border: 1px solid black; }
+    .home .blogroll .blogroll-top {
+      width: 100%;
+      height: 25px;
+      font-size: 16px;
+      line-height: 25px;
+      padding-left: 10px;
+      background: blue;
+      color: white; }
+    .home .blogroll .blogroll-bottom {
+      width: 1024px;
+      height: 75px; }
+      .home .blogroll .blogroll-bottom .blogroll-ul {
+        width: 100%;
+        height: 75px; }
+        .home .blogroll .blogroll-bottom .blogroll-ul .blogroll-word {
+          float: left;
+          width: 84px;
+          height: 25px;
+          text-align: center;
+          line-height: 25px; }
+          .home .blogroll .blogroll-bottom .blogroll-ul .blogroll-word .blogroll-a {
+            font-size: 12px; }
+            .home .blogroll .blogroll-bottom .blogroll-ul .blogroll-word .blogroll-a:hover {
+              color: black;
+              text-decoration: underline; }
+
+/*# sourceMappingURL=style.css.map */

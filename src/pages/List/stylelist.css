@@ -1,0 +1,100 @@
+.list-big {
+  width: 100%;
+  min-height: 40px; }
+  .list-big .list-top {
+    width: 100%;
+    height: 130px;
+    margin-top: 3px; }
+    .list-big .list-top .list-top-img {
+      width: 100%;
+      height: 130px; }
+      .list-big .list-top .list-top-img .top-left {
+        float: left; }
+      .list-big .list-top .list-top-img .top-right {
+        float: right; }
+    .list-big .list-top .list-top-nav {
+      width: 100%;
+      height: 45px;
+      margin-top: 5px;
+      background: url(../../statics/imgs/listbg.png) no-repeat; }
+      .list-big .list-top .list-top-nav .nav-tabone {
+        width: 110px;
+        height: 45px;
+        float: left; }
+      .list-big .list-top .list-top-nav .nav-tab {
+        float: left;
+        height: 45px;
+        font-size: 18px;
+        padding: 0 30px;
+        line-height: 45px;
+        color: red; }
+  .list-big .list-con {
+    width: 100%;
+    min-height: 0px;
+    _height: 0px;
+    overflow: hidden;
+    padding-top: 20px; }
+    .list-big .list-con .con-left {
+      position: relative;
+      margin: 30px 10px 10px 10px;
+      width: 660px;
+      min-height: 0px;
+      _height: 0px;
+      float: left;
+      border: 3px solid #ec0012;
+      border-radius: 20px; }
+      .list-big .list-con .con-left .con-logo {
+        position: absolute;
+        top: -22px;
+        left: 20px; }
+      .list-big .list-con .con-left .con-top {
+        overflow: hidden;
+        width: 100%;
+        min-height: 0px; }
+        .list-big .list-con .con-left .con-top .con-top-img {
+          float: left;
+          margin: 55px 0 0 35px; }
+      .list-big .list-con .con-left .con-list {
+        width: 100%;
+        min-height: 200px; }
+        .list-big .list-con .con-left .con-list .con-list-p {
+          width: 100%;
+          height: 40px;
+          border-bottom: 1px dashed #ccc;
+          line-height: 40px;
+          font-size: 22px;
+          color: black;
+          font-weight: 900; }
+        .list-big .list-con .con-left .con-list .con-list-table .table-li {
+          margin-left: 20px;
+          list-style-image: url(../../statics/imgs/li.png); }
+          .list-big .list-con .con-left .con-list .con-list-table .table-li:hover {
+            text-decoration: underline; }
+    .list-big .list-con .con-right {
+      margin: 30px 10px 10px 0;
+      width: 300px;
+      min-height: 0px;
+      _height: 0px;
+      float: right;
+      border: 3px solid #ec0012;
+      border-radius: 20px; }
+      .list-big .list-con .con-right .right-img {
+        width: 100%;
+        min-height: 0px; }
+        .list-big .list-con .con-right .right-img .right-img-p {
+          width: 100%;
+          height: 30px;
+          font-size: 16px;
+          color: green;
+          margin-left: 5px; }
+        .list-big .list-con .con-right .right-img .right-img-img {
+          margin-left: 25px; }
+      .list-big .list-con .con-right .right-title {
+        width: 100%;
+        font-size: 16px; }
+        .list-big .list-con .con-right .right-title .right-title-p {
+          color: green;
+          font-size: 18px;
+          margin-left: 5px; }
+
+/*# sourceMappingURL=stylelist.css.map */

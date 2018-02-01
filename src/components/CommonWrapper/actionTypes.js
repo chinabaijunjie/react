@@ -1,0 +1,2 @@
+export const CHANGE_LIST = 'COMMON/CHANGE_LIST'
+export const CHANGE_NAV = 'COMMON/CHANGE_NAV'
